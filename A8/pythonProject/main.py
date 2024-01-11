@@ -1,3 +1,4 @@
+#Mert Gürhan 2318121204
 import tkinter as tk
 from Bio.Seq import Seq
 from random import choice, random
@@ -58,3 +59,4 @@ dugme_temizle.pack(pady=10)
 sonuc_metin = tk.Text(pencere, height=15, width=50)
 sonuc_metin.pack(pady=10)
 pencere.mainloop()
+#Mert Gürhan 2318121204
